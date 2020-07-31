@@ -1,0 +1,25 @@
+{
+  "name": "haunted-final-form",
+  "version": "0.0.0",
+  "description": "🏁 High performance subscription-based form state management for Haunted",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lodin/haunted-final-form.git"
+  },
+  "keywords": [
+    "final-form",
+    "haunted",
+    "web-components",
+    "form-validation"
+  ],
+  "author": "Vlad Rindevich <rindevich.vs@gmail.com> (https://github.com/Lodin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lodin/haunted-final-form/issues"
+  },
+  "homepage": "https://github.com/Lodin/haunted-final-form#readme"
+}
